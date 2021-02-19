@@ -18,4 +18,4 @@ Used BeautifulSoup and Splinter, to scrape full-resolution images of Mars’s he
 
 Using Python and HTML, added the code to scraping.py file, that updates Mongo database. Next added index.html file so the webpage contains all the information collected as the full-resolution image and title for each hemisphere image.
 
-pic2
+![Screen Shot 2021-02-19 at 12 42 21 PM](https://user-images.githubusercontent.com/16258584/108547495-2b3a8c80-72b0-11eb-968b-d87775af0bad.png)
