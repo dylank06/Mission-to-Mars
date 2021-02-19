@@ -8,7 +8,7 @@ Automated a web browser with a beautiful soup library and splinter pythons to vi
 
 # Overview
 
-## Screape Full-Resolution Mars Hemishpere Images and Titles 
+## Scrape Full-Resolution Mars Hemishpere Images and Titles 
 
 Used BeautifulSoup and Splinter, to scrape full-resolution images of Mars’s hemispheres and the titles of those images.
 
